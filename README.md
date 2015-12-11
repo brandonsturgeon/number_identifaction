@@ -1,2 +1,2 @@
-# pygame_template
-Template for new Pygame projects
+# number_identification
+Pygame game for quanity identification practice
